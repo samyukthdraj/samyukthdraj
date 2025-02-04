@@ -25,6 +25,10 @@ A classic snake game built from scratch using python and turtle.
 
 ![Samyukth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyukthdraj&show_icons=true&theme=default)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samyukthdraj&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samyukthdraj&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthdraj&layout=compact&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&width=435&lines=Full-Stack+Developer;Cloud+Enthusiast;Python%2C+React%2C+Azure%2C+Node.js)](https://git.io/typing-svg)
+
 
 
 ## 📫 Connect with Me
