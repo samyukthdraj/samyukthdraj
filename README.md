@@ -1,4 +1,4 @@
-## 👨‍💻 Samyukth Dharmarajan | Full-Stack Developer & Cloud Enthusiast
+## 👨‍💻 Samyukth Dharmarajan
 
 
 **Full-Stack Developer | Cloud Enthusiast**
