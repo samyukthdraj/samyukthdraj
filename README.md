@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:samyukthdharamarajan2002@gmail.com">
+  <a href="mailto:drajsamyukth@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
