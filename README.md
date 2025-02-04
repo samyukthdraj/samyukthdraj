@@ -13,13 +13,13 @@ I specialize in building robust applications using a diverse set of technologies
 ## 🚀 Featured Projects
 
 ### [Expense-Tracker](https://github.com/samyukthdraj/Expense-Tracker)
-A project to enhance Express, Node, and MongoDB skills.
+An expense tracker made using MERN and Tailwind CSS. 
 
 ### [ByteByPython](https://github.com/samyukthdraj/ByteByPython)
-Python hackathon project.
+A dynamic and comprehensive complaint registering website for civilians to stations powered by Gemini Api and AssemblyAiApi.
 
 ### [Snake-Game](https://github.com/samyukthdraj/Snake-Game)
-A classic snake game built from scratch.
+A classic snake game built from scratch using python and turtle.
 
 ## 📊 GitHub Stats
 
@@ -29,4 +29,4 @@ A classic snake game built from scratch.
 
 - **Portfolio:** [samyukthdraj.github.io](https://samyukthdraj.github.io)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.email@example.com](mailto:samyukthdharamarajan2002@gmail.com)
