@@ -1,4 +1,6 @@
 ## 👨‍💻 Samyukth Dharmarajan
+<img src="https://media.giphy.com/media/YOUR-GIF-LINK/giphy.gif" width="100%">
+
 
 
 **Full-Stack Developer | Cloud Enthusiast**
