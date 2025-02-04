@@ -1,5 +1,6 @@
 ## 👨‍💻 Samyukth Dharmarajan
-<img src="https://media.giphy.com/media/YOUR-GIF-LINK/giphy.gif" width="100%">
+<img src="https://github.com/samyukthdraj.png" width="200px">
+
 
 
 
