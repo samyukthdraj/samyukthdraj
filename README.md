@@ -1,8 +1,4 @@
 ## 👨‍💻 Samyukth Dharmarajan
-<img src="https://github.com/samyukthdraj.png" width="200px">
-
-
-
 
 **Full-Stack Developer | Cloud Enthusiast**
 
@@ -28,6 +24,8 @@ A classic snake game built from scratch using python and turtle.
 ## 📊 GitHub Stats
 
 ![Samyukth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyukthdraj&show_icons=true&theme=default)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samyukthdraj&theme=tokyonight)
+
 
 ## 📫 Connect with Me
 
