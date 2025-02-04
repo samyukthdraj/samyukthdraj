@@ -29,4 +29,4 @@ A classic snake game built from scratch using python and turtle.
 
 - **Portfolio:** [samyukthdraj.github.io](https://samyukthdraj.github.io)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com](mailto:samyukthdharamarajan2002@gmail.com)
+- **Email:** [samyukthdharamarajan2002@gmail.com](mailto:samyukthdharamarajan2002@gmail.com)
