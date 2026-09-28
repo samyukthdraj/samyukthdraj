@@ -1,75 +1,53 @@
-# 👨‍💻 Samyukth Dharmarajan
+# Samyukth Dharmarajan
+**Full-Stack Software Engineer | Enterprise Architecture & AI Integration**
 
-**Full-Stack Developer | Cloud Enthusiast**  
-
-🚀 Passionate about building scalable applications using a diverse set of technologies.
-
-## 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-CCCCCC?style=for-the-badge&logo=yaml&logoColor=black)
+I build highly scalable, data-intensive web applications using modern JavaScript/TypeScript ecosystems. My focus is on distributed systems, multi-tenant architectures, and integrating complex AI models (LLMs, Computer Vision) into real-time user interfaces.
 
 ---
 
-## 🚀 Featured Projects
+### Technical Arsenal
 
-### 📌 [Expense-Tracker](https://github.com/samyukthdraj/Expense-Tracker)
-💰 **Tech Stack:** MERN, Tailwind CSS  
-🔹 An **expense tracker** built using the MERN stack and Tailwind CSS to manage daily expenses efficiently.
+**Languages:** 
+`TypeScript`, `JavaScript (ES6+)`, `Python`, `SQL`, `C++`, `Java`
 
-### 📌 [ByteByPython](https://github.com/samyukthdraj/ByteByPython)
-🛡️ **Tech Stack:** Python, Flask, MongoDB, Gemini API, AssemblyAI API  
-🔹 A **complaint registering platform** that connects civilians to local police stations using AI-powered insights.
+**Frontend Engineering:**
+`React 18/19`, `Next.js (App Router)`, `Redux Toolkit / Zustand`, `Tailwind CSS`, `Framer Motion`, `React Query`, `WebSockets / SSE`
 
-### 📌 [Snake-Game](https://github.com/samyukthdraj/Snake-Game)
-🎮 **Tech Stack:** Python, Turtle  
-🔹 A **classic snake game** built from scratch with **Python Turtle**, keeping the nostalgia alive.
+**Backend \& Systems:**
+`Node.js`, `NestJS`, `Express`, `BullMQ`, `Microservices`, `Domain-Driven Design (DDD)`, `Aspect-Oriented Programming (AOP)`
 
----
+**Databases \& Data Modeling:**
+`PostgreSQL (TypeORM)`, `MongoDB (Mongoose)`, `Neo4j (Graph DBs)`, `Redis`
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samyukthdraj&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthdraj&layout=compact&langs_count=6&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samyukthdraj&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samyukthdraj&theme=onedark" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&width=500&lines=Full-Stack+Developer;Cloud+Enthusiast;Python%2C+React%2C+Azure%2C+Node.js" />
-</p>
+**Cloud, DevOps \& Security:**
+`Docker`, `Azure (Blob, KeyVault, App Services)`, `Azure DevOps / Pipelines`, `SAML / SSO (Passport.js)`, `JWT`, `RBAC`
 
 ---
 
-## 📫 Connect with Me  
+### Featured Engineering Projects
 
+#### 1. StackPilot (AI-Driven Career Intelligence)
+*Next.js 16, NestJS 10, PostgreSQL, Gemini API, Tailwind v4*
+* Architected a headless, multi-provider job matching engine utilizing a custom weighted scoring matrix to optimize job discovery.
+* Integrated Google's Gemini API for high-accuracy resume parsing and automated ATS scoring across 6 critical dimensions.
+
+#### 2. Vollee (Enterprise Data Middleware \& UI)
+*React, NestJS, MongoDB, Neo4j, Redis, Azure, Mapbox GL*
+* Engineered a custom multi-tenant NestJS backend that dynamically provisions isolated MongoDB connections per request, ensuring zero data leakage.
+* Integrated Neo4j and Neovis.js on the frontend to render highly interactive, real-time graph visualizations and relationship maps.
+* Designed an event-driven background processing pipeline using Redis and BullMQ, decoupling heavy OCR and file operations.
+
+#### 3. Salessim (Real-Time AI Sales Simulation)
+*Next.js, Redux Toolkit, MediaPipe, MS Speech SDK, WebSockets*
+* Built a real-time AI simulation platform integrating MediaPipe (Face Mesh/Pose) to process low-latency, multi-modal webcam streams.
+* Engineered a conversational AI engine consuming Server-Sent Events (SSE) for real-time text streaming and dynamic Markdown/LaTeX rendering.
+
+---
+
+### 📊 GitHub Analytics
 <p align="center">
-  <a href="https://samyukthdraj.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/samyukth-dharmarajan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:drajsamyukth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=samyukthdraj&show_icons=true&theme=transparent&hide_border=true&title_color=32CD32&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthdraj&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=32CD32&text_color=ffffff" width="48%" />
 </p>
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/samyukth-dharmarajan) | [Portfolio](https://samyukthdharmarajan.vercel.app/) | [Email](mailto:drajsamyukth@gmail.com)
