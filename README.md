@@ -45,9 +45,10 @@ I build highly scalable, data-intensive web applications using modern JavaScript
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samyukthdraj&show_icons=true&theme=transparent&hide_border=true&title_color=32CD32&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthdraj&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=32CD32&text_color=ffffff" width="48%" />
-</p>
+
+![Samyukth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyukthdraj&show_icons=true&theme=transparent&hide_border=true&title_color=32CD32&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthdraj&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=32CD32&text_color=ffffff)
+
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/samyukth-dharmarajan) | [Portfolio](https://samyukthdharmarajan.vercel.app/) | [Email](mailto:drajsamyukth@gmail.com)
